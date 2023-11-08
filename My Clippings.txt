@@ -1,0 +1,1940 @@
+﻿Overview of fixed income portfolio Management  
+- Your Highlight on page 19-19 | Added on Monday, October 18, 2021 12:05:06 PM
+
+where E(…) represents eﬀects on expected returns based on expectations of the bracketed
+==========
+﻿Overview of fixed income portfolio Management  
+- Your Highlight on page 19-19 | Added on Monday, October 18, 2021 12:05:14 PM
+
+where E(…) represents eﬀects on expected returns based on expectations of the bracketed
+==========
+﻿Overview of fixed income portfolio Management  
+- Your Highlight on page 19 | Added on Monday, October 18, 2021 7:19:59 PM
+
+receives
+==========
+Reading 18 (Unknown)
+- Your Highlight on Location 153-154 | Added on Sunday, October 24, 2021 3:13:15 PM
+
+cash flow stream with consistent purchasing power
+==========
+Overview of fixed income portfolio Management  
+- Your Highlight on page 5-5 | Added on Monday, October 25, 2021 7:22:01 AM
+
+interest rates. Te volatility of real interest rates is typically lower than the volatility
+==========
+Hull, John C-Fundamentals of futures and options markets-Pearson (2017) (3)  
+- Your Highlight on page 327-327 | Added on Wednesday, January 5, 2022 9:06:31 PM
+
+Any security dependent on other traded securities
+==========
+Hull, John C-Fundamentals of futures and options markets-Pearson (2017) (3)  
+- Your Highlight on page 327-327 | Added on Wednesday, January 5, 2022 9:06:52 PM
+
+Any security dependent on other traded securities can be valued on the assumption that investors are risk neutral
+==========
+25 Ways to Win with People (John C. Maxwell)
+- Your Highlight on Location 140-140 | Added on Sunday, January 16, 2022 11:09:32 PM
+
+why winning with people hinges on starting with yourself.
+==========
+Investment Valuation (Aswath Damodaran)
+- Your Highlight on Location 688-689 | Added on Monday, January 17, 2022 6:10:13 PM
+
+The third, contingent claim valuation, uses option pricing models to measure the value of assets that share option characteristics.
+==========
+Investment Valuation (Aswath Damodaran)
+- Your Highlight on Location 776-776 | Added on Monday, January 17, 2022 6:24:47 PM
+
+We return to this subject in Chapters 14 and 15
+==========
+Investment Valuation (Aswath Damodaran)
+- Your Highlight on Location 789-791 | Added on Monday, January 17, 2022 6:27:49 PM
+
+In a variation, called the adjusted present value (APV) approach, we separate the effects on value of debt financing from the value of the assets of a business. Thus, we start by valuing the business as if it were all equity funded and assess the effect of debt separately,
+==========
+Investment Valuation (Aswath Damodaran)
+- Your Highlight on Location 821-822 | Added on Monday, January 17, 2022 6:31:39 PM
+
+Chapter 32 considers special versions of these excess return models.
+==========
+Investment Valuation (Aswath Damodaran)
+- Your Highlight on Location 929-930 | Added on Tuesday, January 18, 2022 10:30:25 PM
+
+In short, you cannot compare firms without making assumptions about their fundamentals.
+==========
+25 Ways to Win with People (John C. Maxwell)
+- Your Highlight on Location 330-330 | Added on Tuesday, January 18, 2022 10:52:31 PM
+
+Instead, search for ways to make others look good.
+==========
+Investment Valuation (Aswath Damodaran)
+- Your Highlight on Location 1010-1010 | Added on Friday, January 21, 2022 5:44:10 PM
+
+A discrete-time variant, the binomial option pricing model, has also been developed to price options.
+==========
+Investment Valuation (Aswath Damodaran)
+- Your Highlight on Location 1013-1013 | Added on Friday, January 21, 2022 5:44:58 PM
+
+An asset can be valued as an option if the payoffs are a function of the value of an underlying asset.
+==========
+Investment Valuation (Aswath Damodaran)
+- Your Highlight on Location 1038-1040 | Added on Friday, January 21, 2022 5:50:19 PM
+
+A patent can be analyzed as a call option on a product, with the investment outlay needed to get the project going considered the strike price and the patent life becoming the time to expiration of the option. There
+==========
+Investment Valuation (Aswath Damodaran)
+- Your Highlight on Location 3023-3024 | Added on Friday, January 21, 2022 8:15:45 PM
+
+The higher the variance in the value of the underlying asset, the greater the value of the option.
+==========
+Investment Valuation (Aswath Damodaran)
+- Your Highlight on Location 3048-3048 | Added on Friday, January 21, 2022 8:23:47 PM
+
+Increases in the interest rate will increase the value of calls and reduce the value of puts.
+==========
+Investment Valuation (Aswath Damodaran)
+- Your Highlight on Location 3446-3448 | Added on Tuesday, January 25, 2022 9:11:21 PM
+
+5.5 Payoff on Capped Call This option is called a capped call.
+==========
+Investment Valuation (Aswath Damodaran)
+- Your Highlight on Location 3461-3461 | Added on Tuesday, January 25, 2022 9:13:57 PM
+
+ignoring these limits can result in the overstatement of the value of these options.
+==========
+Investment Valuation (Aswath Damodaran)
+- Your Highlight on Location 3466-3467 | Added on Tuesday, January 25, 2022 9:16:17 PM
+
+Consider, for instance, the option to expand a project that is discussed in Chapter
+==========
+Investment Valuation (Aswath Damodaran)
+- Your Highlight on Location 3466-3467 | Added on Tuesday, January 25, 2022 9:16:23 PM
+
+Consider, for instance, the option to expand a project that is discussed in Chapter 30.
+==========
+Investment Valuation (Aswath Damodaran)
+- Your Highlight on Location 25759-25759 | Added on Tuesday, January 25, 2022 9:31:37 PM
+
+make—whether to use equity or firm valuation
+==========
+Investment Valuation (Aswath Damodaran)
+- Your Highlight on Location 25759-25760 | Added on Tuesday, January 25, 2022 9:31:51 PM
+
+make—whether to use equity or firm valuation in the context of discounted cash flow valuation, which multiple you should use to value firms or equity, and what type of option is embedded in a firm.
+==========
+25 Ways to Win with People (John C. Maxwell)
+- Your Highlight on Location 427-428 | Added on Friday, January 28, 2022 5:52:06 PM
+
+A prideful attitude that causes you to prove how capable you are without the help of others.
+==========
+Me and Earl and the Dying Girl (Jesse Andrews)
+- Your Highlight on Location 1012-1013 | Added on Thursday, March 17, 2022 10:57:07 PM
+
+Best of all, the actor Klaus Kinski himself was just as crazy in real life
+==========
+Me and Earl and the Dying Girl (Jesse Andrews)
+- Your Highlight on Location 1027-1027 | Added on Thursday, March 17, 2022 10:59:14 PM
+
+Pittsburgh who liked Aguirre, the Wrath of God,
+==========
+Me and Earl and the Dying Girl (Jesse Andrews)
+- Your Note on Location 1027 | Added on Thursday, March 17, 2022 10:59:21 PM
+
+Ver
+==========
+Le Petit Prince (French Edition) (de Saint-Exupéry, Antoine)
+- Your Highlight on Location 67-67 | Added on Sunday, April 10, 2022 11:11:17 PM
+
+au petit bonhomme (avec un peu de mauvaise
+==========
+Me and Earl and the Dying Girl (Jesse Andrews)
+- Your Highlight on Location 3347-3349 | Added on Friday, April 15, 2022 11:02:27 PM
+
+That’s when I knew I was going to make it. 
+==========
+The Love Hypothesis (Ali Hazelwood)
+- Your Highlight on Location 1115-1115 | Added on Friday, May 13, 2022 11:02:28 PM
+
+She was probably developing diabetes as she spoke.
+==========
+The Love Hypothesis (Ali Hazelwood)
+- Your Highlight on Location 1687-1687 | Added on Friday, June 3, 2022 11:13:56 PM
+
+My p-value is .06,
+==========
+A Random Walk Down Wall Street (Burton G. Malkiel)
+- Your Highlight on Location 1976-1977 | Added on Thursday, August 11, 2022 11:09:49 PM
+
+What is proposed is a strategy of buying unrecognized growth stocks whose earnings multiples are not at a premium over the market.
+==========
+A Random Walk Down Wall Street (Burton G. Malkiel)
+- Your Highlight on Location 1998-1999 | Added on Thursday, August 11, 2022 11:17:31 PM
+
+You might simply use your intuition or speculative sense to judge whether the “story” on your stock is likely to catch the fancy of the crowd—particularly
+==========
+A Random Walk Down Wall Street (Burton G. Malkiel)
+- Your Highlight on Location 2210-2212 | Added on Sunday, August 14, 2022 10:53:08 PM
+
+victory by an original member of the National Football League such as the Steelers in 2009 predicts a bull market in stocks, whereas a victory by an original member of the American Football League is bad news for stock market investors.
+==========
+Investment Philosophies (Aswath Damodaran)
+- Your Highlight on Location 5262-5263 | Added on Monday, August 15, 2022 8:42:15 PM
+
+There are certain investors who lead markets, and finding out when and what they are buying and selling can provide a useful leading indicator of future price movements.
+==========
+Investment Philosophies (Aswath Damodaran)
+- Your Highlight on Location 5434-5434 | Added on Monday, August 15, 2022 8:47:28 PM
+
+approach is the flip side of the contrarian
+==========
+Investment Philosophies (Aswath Damodaran)
+- Your Highlight on Location 5443-5444 | Added on Monday, August 15, 2022 8:49:13 PM
+
+who have access to the best information are most likely to beat the market and would be the ones you should follow.
+==========
+Investment Philosophies (Aswath Damodaran)
+- Your Highlight on Location 5457-5459 | Added on Monday, August 15, 2022 8:52:14 PM
+
+You can therefore look up stocks where insider buying or selling
+==========
+Investment Philosophies (Aswath Damodaran)
+- Your Highlight on Location 5741-5742 | Added on Monday, August 15, 2022 8:57:28 PM
+
+we have to begin with the proposition that the value of a firm is derived from two sources: investments that the firm has already made (assets in place) and expected future investments
+==========
+Investment Philosophies (Aswath Damodaran)
+- Your Highlight on Location 5754-5755 | Added on Monday, August 15, 2022 9:46:26 PM
+
+Benjamin Graham, in his classic book on security analysis (with David Dodd), converted these factors into screens that could be used to find promising investments.
+==========
+Investment Philosophies (Aswath Damodaran)
+- Your Highlight on Location 5769-5770 | Added on Monday, August 15, 2022 9:47:55 PM
+
+While the numbers in the screens did change slightly from edition to edition, they preserved their original form and are summarized here:
+==========
+Investment Philosophies (Aswath Damodaran)
+- Your Highlight on Location 5820-5821 | Added on Monday, August 15, 2022 9:58:25 PM
+
+and 8.5 is the appropriate multiple for a firm with no growth.
+==========
+Investment Philosophies (Aswath Damodaran)
+- Your Highlight on Location 5884-5885 | Added on Monday, August 15, 2022 10:56:52 PM
+
+The firm should be in a business with favorable long-term pros-pects.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 331-332 | Added on Thursday, August 18, 2022 10:58:27 PM
+
+That is to say, we should do our investment research when we are in a cold, rational state—and when nothing much is happening in the markets—and
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 334-334 | Added on Thursday, August 18, 2022 11:00:34 PM
+
+“The time of maximum pessimism is the best time to buy, and the time of maximum optimism is the best time to sell.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 344-346 | Added on Thursday, August 18, 2022 11:01:41 PM
+
+by placing buy orders well below the market price, it becomes easier to buy when faced with despondent selling. This is a simple but highly effective way of removing emotion from the situation.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 432-432 | Added on Friday, August 19, 2022 9:39:54 PM
+
+willingness to hold cash in the absence of compelling investment opportunity,
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 431-433 | Added on Friday, August 19, 2022 9:40:16 PM
+
+We have often described our techniques for accomplishing this: willingness to hold cash in the absence of compelling investment opportunity, a strong sell discipline, significant hedging activity, and avoidance of recourse leverage, among others.”
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 431-433 | Added on Friday, August 19, 2022 9:40:36 PM
+
+avoid the extreme stresses that lead to poor decision-making. We have often described our techniques for accomplishing this: willingness to hold cash in the absence of compelling investment opportunity, a strong sell discipline, significant hedging activity, and avoidance of recourse leverage, among others.”
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 494-495 | Added on Friday, August 19, 2022 9:53:41 PM
+
+The purchasers view the current good earnings as equivalent to “earning power”
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 494-495 | Added on Friday, August 19, 2022 9:53:49 PM
+
+The purchasers view the current good earnings as equivalent to “earning power” and assume that prosperity is synonymous with safety.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 520-521 | Added on Friday, August 19, 2022 10:37:14 PM
+
+We should get used to asking “Must I believe this?” rather than the far more common “Can I believe this?”
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 534-535 | Added on Friday, August 19, 2022 10:41:41 PM
+
+either be depressed and see the world the way it is or be happy and deluded.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 800-800 | Added on Sunday, August 21, 2022 10:37:45 PM
+
+suggest you consult my previous book, Value Investing.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 830-830 | Added on Sunday, August 21, 2022 10:53:52 PM
+
+Howard Marks of Oaktree Capital.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 844-845 | Added on Sunday, August 21, 2022 10:57:11 PM
+
+and once you reject forecasting for the waste of time that it is, you will free up your time to concentrate on the things that really matter.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 956-957 | Added on Monday, August 22, 2022 6:39:38 PM
+
+we really need to know about an investment, rather than trying to know absolutely everything about everything concerned with the investment.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 955-957 | Added on Monday, August 22, 2022 6:39:48 PM
+
+We would be far better off analyzing the five things we really need to know about an investment, rather than trying to know absolutely everything about everything concerned with the investment.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Note on Location 956 | Added on Monday, August 22, 2022 6:40:20 PM
+
+I should try to get to know wat are those things
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 965-968 | Added on Monday, August 22, 2022 6:41:49 PM
+
+I essentially focus upon three elements: 1. Valuation: Is this stock seriously undervalued? 2. Balance sheets: Is this stock going bust? 3. Capital discipline: What is the management doing with the cash I’m giving them?
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1029-1029 | Added on Monday, August 22, 2022 11:02:47 PM
+
+Turning off the bubblevision is a great step towards preventing yourself from becoming a slave to the market.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1062-1063 | Added on Monday, August 22, 2022 11:11:06 PM
+
+Who do we choose to read? The people who agree with us most.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1061-1062 | Added on Monday, August 22, 2022 11:11:24 PM
+
+twice as likely to look for information that agrees with us than we are to seek out disconfirming evidence.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1112-1113 | Added on Tuesday, August 23, 2022 4:10:34 PM
+
+obvious answer is that we need to learn to look for evidence that would prove our own analysis wrong.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1122-1123 | Added on Tuesday, August 23, 2022 4:11:53 PM
+
+especially if they are linked to managers who are engineered for difficult times,
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1145-1146 | Added on Tuesday, August 23, 2022 4:51:04 PM
+
+Kass warns of the dangers of being a perma-bull—always bullish on the market—or a perma-bear—always negative on the market.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1185-1186 | Added on Tuesday, August 23, 2022 4:57:44 PM
+
+Or put another way, the psychologists made up their minds early on, and then refused to change them.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1248-1249 | Added on Tuesday, August 23, 2022 5:07:10 PM
+
+We should all be encouraged to revisit our investment cases and approach them with a blank slate.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1376-1378 | Added on Tuesday, August 23, 2022 11:11:15 PM
+
+that valuations be “justified by the facts, e.g., the assets, earnings, dividends, definite prospects, as distinct, let us say, from market quotations established by artificial manipulation or distorted by psychological excesses.”
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1473-1473 | Added on Wednesday, August 24, 2022 8:47:02 PM
+
+Minsky argued that monetary expansion and credit creation are largely endogenous to the system.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Note on Location 1473 | Added on Wednesday, August 24, 2022 8:48:40 PM
+
+Therefore interest rate will be lw to get more money  the system 
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1528-1529 | Added on Wednesday, August 24, 2022 8:59:20 PM
+
+The details of each bubble are subtly different, but the general patterns remain eerily similar.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1564-1565 | Added on Wednesday, August 24, 2022 10:49:27 PM
+
+On some occasions this may well be the case, but on others bad analysis may be the root cause.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1572-1573 | Added on Wednesday, August 24, 2022 10:52:46 PM
+
+George Soros did exactly that. In his Alchemy of Finance he writes “I kept a diary in which I recorded the thoughts that went into my investment decisions on a real-time basis.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1571-1574 | Added on Wednesday, August 24, 2022 10:53:26 PM
+
+need to keep a written record of the decisions we take and the reasons behind those decisions—an investment diary, if you will. Keeping an investment diary may sound daft, but George Soros did exactly that. In his Alchemy of Finance he writes “I kept a diary in which I recorded the thoughts that went into my investment decisions on a real-time basis. . . . The experiment was a roaring success in financial terms—my fund never did better. It also produced a surprising result: I came out of the experiment with quite different expectations about the future.”
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1656-1656 | Added on Wednesday, August 24, 2022 11:05:47 PM
+
+noteworthy—the urge to act tends to intensify after a loss—a
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Note on Location 1656 | Added on Wednesday, August 24, 2022 11:05:53 PM
+
+Fer
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1692-1693 | Added on Wednesday, August 24, 2022 11:11:07 PM
+
+If you can’t find something to invest in, then you are best off doing nothing at all.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1810-1811 | Added on Thursday, August 25, 2022 10:48:21 PM
+
+An illusion of invulnerability. This creates excessive optimism that encourages taking extreme risks. This is very similar to the over-optimism and overconfidence
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Note on Location 1811 | Added on Thursday, August 25, 2022 10:48:41 PM
+
+How this makes me feel secure
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1855-1857 | Added on Thursday, August 25, 2022 10:53:52 PM
+
+“You can’t be a good value investor without being an independent thinker—you’re seeing valuations that the market is not appreciating. But it’s critical that you understand why the market isn’t seeing the value.”
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1911-1911 | Added on Friday, August 26, 2022 3:24:52 PM
+
+The more you check your portfolio the more likely you are to encounter a loss simply because of the volatile nature of stock prices.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1923-1924 | Added on Friday, August 26, 2022 3:27:05 PM
+
+The Little Book that Beats the Market, Joel Greenblatt
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1952-1953 | Added on Friday, August 26, 2022 3:31:24 PM
+
+This belief tends to lead to investors holding onto their losing stocks and selling their winning stocks—known as the disposition effect.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1951-1953 | Added on Friday, August 26, 2022 3:31:31 PM
+
+For some reason, in some bizarre mental world, people believe that a loss isn’t a loss until they realize it. This belief tends to lead to investors holding onto their losing stocks and selling their winning stocks—known as the disposition effect.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1972-1972 | Added on Friday, August 26, 2022 3:34:38 PM
+
+The best-performing funds were those with the highest percentage of losses realized (i.e., the least loss averse).
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1976-1977 | Added on Friday, August 26, 2022 3:35:16 PM
+
+Stop losses may be a useful form of pre-commitment that help alleviate the disposition effect in markets that witness momentum.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1980-1981 | Added on Friday, August 26, 2022 3:36:02 PM
+
+So prices adjust to new information only slowly in a world where investors display the disposition effect.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1980-1982 | Added on Friday, August 26, 2022 3:36:50 PM
+
+So prices adjust to new information only slowly in a world where investors display the disposition effect. Stop losses can act as triggers to prevent you sliding down the slippery slope of the disposition effect.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 1992-1993 | Added on Friday, August 26, 2022 3:39:09 PM
+
+Simply put, the endowment effect says that once you own something you start to place a higher value on it than others would.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 2017-2018 | Added on Friday, August 26, 2022 3:46:03 PM
+
+Ainslie says, “Either this security deserves incremental capital at the current price point or it doesn’t—in which case, let’s sell it and put the money to work in a security that deserves that incremental capital.”
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 2028-2029 | Added on Friday, August 26, 2022 3:47:59 PM
+
+investing—that is, buying really cheap stocks almost regardless of the underlying industry economics, and then selling them when they get close to intrinsic value.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Note on Location 2036 | Added on Friday, August 26, 2022 4:23:04 PM
+
+Remember that we think that its not a loss i f we think its no rralized
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 2036-2036 | Added on Friday, August 26, 2022 4:23:04 PM
+
+That
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 2090-2090 | Added on Friday, August 26, 2022 4:30:37 PM
+
+We obsess with outcomes over which we have no direct control. However, we can and do control the process by which we invest.
+==========
+The Little Book of Behavioral Investing: How not to be your own worst enemy (James Montier)
+- Your Highlight on Location 2215-2216 | Added on Friday, August 26, 2022 4:49:32 PM
+
+We shouldn’t try to change everything in one swoop, as we’ ll fail. Working out which biases you suffer from the most, and addressing these first, should help improve returns.
+==========
+The Little Book That Still Beats the Market (Little Books. Big Profits) (Greenblatt, Joel)
+- Your Highlight on Location 62-63 | Added on Friday, August 26, 2022 10:36:14 PM
+
+The Only Investment Guide You’ll Ever Need—is
+==========
+The Little Book That Still Beats the Market (Little Books. Big Profits) (Greenblatt, Joel)
+- Your Highlight on Location 378-379 | Added on Monday, August 29, 2022 10:53:38 PM
+
+The earnings from your share of the profits must give you more money than you would receive by placing that same amount of money in a risk-free
+==========
+The Little Book That Still Beats the Market (Little Books. Big Profits) (Greenblatt, Joel)
+- Your Highlight on Location 378-379 | Added on Monday, August 29, 2022 10:53:46 PM
+
+The earnings from your share of the profits must give you more money than you would receive by placing that same amount of money in a risk-free 10-year U.S. government bond.
+==========
+The Little Book That Still Beats the Market (Little Books. Big Profits) (Greenblatt, Joel)
+- Your Highlight on Location 469-470 | Added on Tuesday, August 30, 2022 10:50:55 PM
+
+Graham figured that always using the margin of safety principle when deciding whether to purchase shares of a business from a crazy partner like Mr. Market was the secret to making safe
+==========
+The Little Book That Still Beats the Market (Little Books. Big Profits) (Greenblatt, Joel)
+- Your Highlight on Location 469-470 | Added on Tuesday, August 30, 2022 10:51:07 PM
+
+Graham figured that always using the margin of safety principle when deciding whether to purchase shares of a business from a crazy partner like Mr. Market was the secret to making safe and reliable investment profits.
+==========
+The Little Book That Still Beats the Market (Little Books. Big Profits) (Greenblatt, Joel)
+- Your Highlight on Location 655-656 | Added on Thursday, September 1, 2022 10:51:14 PM
+
+The formula starts with
+==========
+The Little Book That Still Beats the Market (Little Books. Big Profits) (Greenblatt, Joel)
+- Your Highlight on Location 692-692 | Added on Friday, September 2, 2022 10:36:59 PM
+
+we know that ain’t so.”
+==========
+The Little Book That Still Beats the Market (Little Books. Big Profits) (Greenblatt, Joel)
+- Your Highlight on Location 948-950 | Added on Sunday, September 4, 2022 11:11:53 PM
+
+In short, companies that achieve a high return on capital are likely to have a special advantage of some kind. That special advantage keeps competitors from destroying the ability to earn above-average profits.
+==========
+The Little Book That Still Beats the Market (Little Books. Big Profits) (Greenblatt, Joel)
+- Your Highlight on Location 943-943 | Added on Sunday, September 4, 2022 11:12:38 PM
+
+It
+==========
+The Little Book That Still Beats the Market (Little Books. Big Profits) (Greenblatt, Joel)
+- Your Highlight on Location 1055-1057 | Added on Monday, September 5, 2022 11:03:42 PM
+
+Over the short term, Mr. Market acts like a wildly emotional guy who can buy or sell stocks at depressed or inflated prices. • Over the long run, it’s a completely different story: Mr. Market gets it right.
+==========
+The Little Book That Still Beats the Market (Little Books. Big Profits) (Greenblatt, Joel)
+- Your Highlight on Location 1280-1280 | Added on Tuesday, September 6, 2022 11:08:26 PM
+
+how to evaluate businesses and project normal earnings
+==========
+The Art of Short Selling (Kathryn F. Staley)
+- Your Highlight on Location 260-261 | Added on Sunday, September 11, 2022 10:51:57 PM
+
+Where does the material come from? The financial documents and proxy can come from the company, from a service that microfiches SEC documents, or from a library
+==========
+The Art of Short Selling (Kathryn F. Staley)
+- Your Highlight on Location 260-261 | Added on Sunday, September 11, 2022 10:52:03 PM
+
+Where does the material come from? The financial documents and proxy can come from the company, from a service that microfiches SEC documents, or from a library that subscribes to a microfiche service.
+==========
+The Art of Short Selling (Kathryn F. Staley)
+- Your Highlight on Location 262-262 | Added on Sunday, September 11, 2022 10:52:21 PM
+
+Insider transactions and 13Ds are also reported to the SEC.
+==========
+The Art of Short Selling (Kathryn F. Staley)
+- Your Highlight on Location 431-431 | Added on Monday, September 12, 2022 10:56:01 PM
+
+The trick, he says, is to be short the stocks you can stay short without pain or expense,
+==========
+The Art of Short Selling (Kathryn F. Staley)
+- Your Highlight on Location 432-433 | Added on Monday, September 12, 2022 10:56:23 PM
+
+his shorts are predominantly companies where management does not own much stock,
+==========
+The Art of Short Selling (Kathryn F. Staley)
+- Your Highlight on Location 432-434 | Added on Monday, September 12, 2022 10:56:52 PM
+
+his shorts are predominantly companies where management does not own much stock, where management is not realistic and forthright about their business, and where the company itself is leveraged or has a fatal balance-sheet flaw. Porter
+==========
+The Art of Short Selling (Kathryn F. Staley)
+- Your Highlight on Location 442-443 | Added on Monday, September 12, 2022 10:58:33 PM
+
+He generally will not short stocks with strong relative strength and earnings momentum solely on the basis of overvaluation.
+==========
+The Art of Short Selling (Kathryn F. Staley)
+- Your Highlight on Location 473-474 | Added on Tuesday, September 13, 2022 10:37:47 PM
+
+The Feshbachs do not short a stock unless they expect it to decline in price by 50 percent, because they believe that the risk of short selling is too great for marginal plays.
+==========
+The Art of Short Selling (Kathryn F. Staley)
+- Your Highlight on Location 522-523 | Added on Tuesday, September 13, 2022 10:45:19 PM
+
+He cautions that the first position is not necessarily the biggest because stocks go up and you want to be able to average up.
+==========
+The Art of Short Selling (Kathryn F. Staley)
+- Your Highlight on Location 522-524 | Added on Tuesday, September 13, 2022 10:45:45 PM
+
+He cautions that the first position is not necessarily the biggest because stocks go up and you want to be able to average up. But the time you really want to add to the position is when those factors become overwhelmingly apparent and the stock is still up.
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 305-306 | Added on Friday, September 16, 2022 10:47:09 PM
+
+The average return to all investors in any asset class must be equal to the average return to all the assets in that asset class
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 320-323 | Added on Friday, September 16, 2022 10:49:27 PM
+
+Highly focused value investors tend to be unusually successful even compared to the value community as a whole. Successful but more broadly oriented value investors tend to perform better in industries and geographies where they have concentrated than in other areas. We have, therefore, added a number of specialized investors to our profile section. The Graham and Dodd concept of “circle of competence” applies not just to staying away from unfamiliar areas but actively defining focused fields of expertise.
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 320-320 | Added on Friday, September 16, 2022 10:49:44 PM
+
+Highly focused value investors tend to be unusually successful even compared to the value community as a whole.
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 320-320 | Added on Friday, September 16, 2022 10:49:59 PM
+
+Highly focused value investors tend to be unusually successful even compared to the value community as a whole.
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 320-321 | Added on Friday, September 16, 2022 10:50:25 PM
+
+Highly focused value investors tend to be unusually successful even compared to the value community as a whole. Successful but more broadly oriented value investors tend to perform better in industries and geographies where they have concentrated than in other areas.
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 387-387 | Added on Saturday, September 17, 2022 3:51:45 PM
+
+In other words, the intrinsic value of the security is one thing; the current price at which it is trading is something else.
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 574-577 | Added on Sunday, September 18, 2022 10:38:19 PM
+
+there is always significant indirect information available that may either confirm or challenge the initial valuation estimate. For example, has the chief financial officer recently sold all of his or her shares? Are other well-informed and disciplined investors buying or dumping the shares? What are the commonly held beliefs that underlie the current price of the shares, and why do you think your valuation is better than the consensus?
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 577-578 | Added on Sunday, September 18, 2022 10:38:53 PM
+
+Know yourself. How have you acted in similar situations in the past? Have you made decisions that look like this one, and how have they worked out?
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 629-630 | Added on Sunday, September 18, 2022 11:07:30 PM
+
+would that have made a purchase of the shares more risky?
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 631-631 | Added on Sunday, September 18, 2022 11:07:46 PM
+
+According to Buffett, not at all, because it would have increased an already ample margin of safety and lowered whatever risk—he
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 633-633 | Added on Sunday, September 18, 2022 11:08:15 PM
+
+you have to acknowledge the existence of an intrinsic value and feel confident about your ability to estimate it.
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 693-695 | Added on Monday, September 19, 2022 11:09:48 PM
+
+The key difference between establishing a specialization and identifying a circle of competence is that specialization works from the inside out, starting from a particular industry or geography or other narrow area of interest.
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 809-810 | Added on Tuesday, September 20, 2022 8:00:35 PM
+
+And if prior winners in the stock market continued to outperform over sustained periods, their market capitalizations would rise to the sky,
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Note on Location 810 | Added on Tuesday, September 20, 2022 8:01:27 PM
+
+Maybe look for enterprises that are not putperforming because of the study
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 818-820 | Added on Tuesday, September 20, 2022 8:03:12 PM
+
+United States and overseas markets paints a remarkably consistent picture. Embracing stocks that are ugly, boring, obscure, disappointing, and therefore cheap, has historically been the best way to buy stocks, in which you are likely to be on the right side of the trade.
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 1081-1083 | Added on Wednesday, September 21, 2022 10:57:43 PM
+
+If, after careful analysis, an investment appears to be available at a large discount to intrinsic value, you always have to ask why, in a world of energetic, intelligent investors, this opportunity is being presented to you in particular. Why are you more likely to be on the right side of the trade?
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 1083-1084 | Added on Wednesday, September 21, 2022 10:58:03 PM
+
+In the case of specialization, it is because you are particularly qualified to identify value. In the case of a broad value approach, it is because you have inoculated yourself against the behavioral and institutional biases that affect other investors.
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 1166-1169 | Added on Monday, September 26, 2022 10:51:31 PM
+
+For overvalued stocks, even optimistic forecasts that turn out to be accurate may produce disappointing returns if the starting price is too high. The opposite often holds true for undervalued stocks and pessimistic forecasts; low purchase prices can produce positive returns even if the company performance has not improved.
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 1190-1191 | Added on Monday, September 26, 2022 10:56:01 PM
+
+Analysts concerned that adding back depreciation ignores the investments required to maintain a business's capital assets and to support growth,
+==========
+Value Investing (Bruce C. Greenwald)
+- Your Highlight on Location 1285-1288 | Added on Thursday, September 29, 2022 10:49:13 PM
+
+an investment analyst looking carefully at the balance sheet will have a distinct advantage over an investor who has ignored it. Investors who rely solely on NPV analysis and overlook balance sheets are more likely to find themselves on the wrong side of the trade than those who do pay attention to the balance sheet.
+==========
+Michael-Watkins-90-jours-pour-réussir-sa-prise-de-poste-TC-Média-Livres-Inc (Michael Watkins)
+- Your Highlight on Location 288-289 | Added on Saturday, November 19, 2022 10:42:37 PM
+
+Vous aurez beau obtenir de bons résultats, ils ne suffisent pas à combler les attentes de votre patron et des autres partenaires.
+==========
+Alan Suárez - Final Proyecto INTI  
+- Your Highlight on Location 933-933 | Added on Tuesday, December 13, 2022 2:55:36 PM
+
+quebrar. Los únicos
+==========
+Financial Shenanigans: How to Detect Accounting Gimmicks and Fraud in Financial Reports, Fourth Edition (Howard M. Schilit)
+- Your Highlight on Location 409-410 | Added on Wednesday, January 4, 2023 11:12:56 PM
+
+Investors should be particularly careful when management publicly boasts about its long consecutive streak of meeting or exceeding Wall Street’s expectations.
+==========
+Clear_-James-Un-rien-peut-tout-changer-_French-Edition_-Larousse-_2019_ (Clear, James)
+- Your Highlight on Location 574-576 | Added on Tuesday, May 9, 2023 8:56:20 PM
+
+C’est un processus simple en deux étapes : 1. Décidez du type de personne que vous souhaitez devenir. 2. Prouvez-vous que vous souhaitez devenir ce type de personne en gagnant de petites victoires.
+==========
+Clear_-James-Un-rien-peut-tout-changer-_French-Edition_-Larousse-_2019_ (Clear, James)
+- Your Highlight on Location 1043-1044 | Added on Wednesday, May 10, 2023 10:46:05 PM
+
+nous ne disons jamais quand et où ces habitudes vont se mettre en place. Nous laissons le hasard décider et espérons que « nous nous en souviendrons » ou que nous réussirons à nous motiver le moment venu.
+==========
+Clear_-James-Un-rien-peut-tout-changer-_French-Edition_-Larousse-_2019_ (Clear, James)
+- Your Highlight on Location 1538-1539 | Added on Friday, May 12, 2023 7:23:49 AM
+
+déclara : « Nous avons parfaitement réussi à atteindre
+==========
+Clear_-James-Un-rien-peut-tout-changer-_French-Edition_-Larousse-_2019_ (Clear, James)
+- Your Highlight on Location 1908-1909 | Added on Monday, May 15, 2023 7:15:33 AM
+
+ressentons sur le moment. Par exemple, que vous
+==========
+Clear_-James-Un-rien-peut-tout-changer-_French-Edition_-Larousse-_2019_ (Clear, James)
+- Your Highlight on Location 1908-1909 | Added on Monday, May 15, 2023 7:17:08 AM
+
+application. Ils aident à expliquer ce que nous ressentons sur le moment. Par exemple, que vous
+==========
+Comment se faire des amis et influencer les autres (Dale Carnegie) (Z-Library) (Dale Carnegie)
+- Votre surlignement à lʼemplacement 144-145 | Ajouté le samedi 27 mai 2023 18:42:30
+
+«Mon bonheur, mon succès, ma réputation dépendent en grande partie du talent que je saurai déployer dans les rapports avec mes semblables.»
+==========
+Comment se faire des amis et influencer les autres (Dale Carnegie) (Z-Library) (Dale Carnegie)
+- Votre surlignement à lʼemplacement 281-281 | Ajouté le dimanche 28 mai 2023 23:23:22
+
+l’avait abattu d’une balle de revolver.
+==========
+Critical Thinking (Bowell, Tracy; Cowan, Robert; Kemp, Gary)
+- Votre surlignement à lʼemplacement 393-393 | Ajouté le vendredi 9 juin 2023 08:43:35
+
+crucial first stage involves distinguishing whether an argument is being presented.
+==========
+Critical Thinking (Bowell, Tracy; Cowan, Robert; Kemp, Gary)
+- Votre note à lʼemplacement 393 | Ajouté le vendredi 9 juin 2023 08:44:02
+
+Here are three steps for camel
+==========
+Making Microfinance Work_ Managing for I - Craig Churchill (Unknown)
+- Votre surlignement à lʼemplacement 498-500 | Ajouté le mercredi 14 juin 2023 08:38:08
+
+for example, if borrowers maintain a good credit record then they become eligible for an emergency loan product. When borrowers have incentives to repay, lenders face lower loan losses. •
+==========
+Making Microfinance Work_ Managing for I - Craig Churchill (Unknown)
+- Votre surlignement à lʼemplacement 504-505 | Ajouté le mercredi 14 juin 2023 08:39:16
+
+The cross-selling of multiple products to one consumer strengthens the relationship between the MFI and the client.
+==========
+Making Microfinance Work_ Managing for I - Craig Churchill (Unknown)
+- Votre surlignement à lʼemplacement 573-574 | Ajouté le jeudi 15 juin 2023 08:45:46
+
+Transaction costs include both opportunity costs (e.g., the time spent sitting in group meetings)
+==========
+Making Microfinance Work_ Managing for I - Craig Churchill (Unknown)
+- Votre surlignement à lʼemplacement 641-641 | Ajouté le vendredi 16 juin 2023 08:43:36
+
+Some traditional banks have developed products or created subsidiaries to serve low-income communities.
+==========
+Making Microfinance Work_ Managing for I - Craig Churchill (Unknown)
+- Votre surlignement à lʼemplacement 863-864 | Ajouté le mardi 20 juin 2023 08:40:27
+
+formal financial institutions tend to reach a lower percentage of female borrowers and have a higher average loan balance than NGOs.
+==========
+Paper Towns (Green, John)
+- Votre note à lʼemplacement 261 | Ajouté le lundi 3 juillet 2023 19:54:08
+
+Tear apart
+==========
+Paper Towns (Green, John)
+- Votre surlignement à lʼemplacement 261-262 | Ajouté le lundi 3 juillet 2023 19:54:08
+
+tearing himself apart.
+==========
+Paper Towns (Green, John)
+- Votre surlignement à lʼemplacement 308-308 | Ajouté le mardi 4 juillet 2023 07:17:29
+
+almost over, so Ben and I got up and put our trays
+==========
+Paper Towns (Green, John)
+- Votre surlignement à lʼemplacement 874-875 | Ajouté le vendredi 7 juillet 2023 08:53:03
+
+open. Lightning fast, Margo grabbed his comforter
+==========
+Making Microfinance Work_ Managing for I - Craig Churchill (Unknown)
+- Votre surlignement à lʼemplacement 1404-1405 | Ajouté le mardi 11 juillet 2023 08:32:21
+
+accessible online (see www.microfinancegateway.org). MFIs can examine this literature for tips on product design, institutional development, competitive strategy, market research techniques and more.
+==========
+Paper Towns (Green, John)
+- Votre surlignement à lʼemplacement 956-957 | Ajouté le mardi 18 juillet 2023 09:15:21
+
+started bushwhacking through a thicket of tall shrubs
+==========
+Paper Towns (Green, John)
+- Votre surlignement à lʼemplacement 1028-1029 | Ajouté le mercredi 19 juillet 2023 08:52:02
+
+jazzy song my dad likes called “Stars Fell on Alabama.”
+==========
+Paper Towns (Green, John)
+- Votre surlignement à lʼemplacement 1053-1054 | Ajouté le mercredi 19 juillet 2023 08:58:31
+
+Yes, at school, where things will be different, where I will be your friend in public, and also decidedly single,
+==========
+The Official Guide to the TOEFL iBT With CD-ROM, Third Edition (Educational Testing Service [Service etc.) (Z-Library) (Educational Testing Service)
+- Votre surlignement à lʼemplacement 851-851 | Ajouté le lundi 24 juillet 2023 19:04:23
+
+How to Recognize Factual Information Questions
+==========
+The Official Guide to the TOEFL iBT With CD-ROM, Third Edition (Educational Testing Service [Service etc.) (Z-Library) (Educational Testing Service)
+- Votre surlignement à lʼemplacement 886-887 | Ajouté le lundi 24 juillet 2023 19:10:24
+
+How to Recognize Negative Factual Information Questions
+==========
+The Official Guide to the TOEFL iBT With CD-ROM, Third Edition (Educational Testing Service [Service etc.) (Z-Library) (Educational Testing Service)
+- Votre surlignement à lʼemplacement 912-913 | Ajouté le lundi 24 juillet 2023 19:15:33
+
+Because you are asked to identify the choice that is NOT mentioned in the passage or that contradicts the passage,
+==========
+The Official Guide to the TOEFL iBT With CD-ROM, Third Edition (Educational Testing Service [Service etc.) (Z-Library) (Educational Testing Service)
+- Votre surlignement à lʼemplacement 918-918 | Ajouté le lundi 24 juillet 2023 19:16:00
+
+How to Recognize Inference Questions
+==========
+The Official Guide to the TOEFL iBT With CD-ROM, Third Edition (Educational Testing Service [Service etc.) (Z-Library) (Educational Testing Service)
+- Votre surlignement à lʼemplacement 945-947 | Ajouté le lundi 24 juillet 2023 19:24:21
+
+The answer choices may be expressed in general terms, (for example, “a theory is explained and then illustrated”) or in terms that are specific to the passage. (“The author explains the categories of adaptation to deserts by mammals and then gives an example.”) A
+==========
+The Official Guide to the TOEFL iBT With CD-ROM, Third Edition (Educational Testing Service [Service etc.) (Z-Library) (Educational Testing Service)
+- Votre surlignement à lʼemplacement 950-950 | Ajouté le lundi 24 juillet 2023 19:24:54
+
+How to Recognize Rhetorical Purpose Questions
+==========
+The Official Guide to the TOEFL iBT With CD-ROM, Third Edition (Educational Testing Service [Service etc.) (Z-Library) (Educational Testing Service)
+- Votre surlignement à lʼemplacement 1009-1009 | Ajouté le mardi 25 juillet 2023 07:02:23
+
+How to Recognize Reference Questions
+==========
+The Official Guide to the TOEFL iBT With CD-ROM, Third Edition (Educational Testing Service [Service etc.) (Z-Library) (Educational Testing Service)
+- Votre surlignement à lʼemplacement 1034-1034 | Ajouté le mardi 25 juillet 2023 07:08:21
+
+relative clause
+==========
+The Official Guide to the TOEFL iBT With CD-ROM, Third Edition (Educational Testing Service [Service etc.) (Z-Library) (Educational Testing Service)
+- Votre surlignement à lʼemplacement 1054-1054 | Ajouté le mardi 25 juillet 2023 07:13:12
+
+Tips for Sentence Simplification Questions
+==========
+The Official Guide to the TOEFL iBT With CD-ROM, Third Edition (Educational Testing Service [Service etc.) (Z-Library) (Educational Testing Service)
+- Votre surlignement à lʼemplacement 1084-1085 | Ajouté le mardi 25 juillet 2023 08:59:29
+
+as well as the grammatical connections (like pronoun references) between sentences.
+==========
+The Official Guide to the TOEFL iBT With CD-ROM, Third Edition (Educational Testing Service [Service etc.) (Z-Library) (Educational Testing Service)
+- Votre surlignement à lʼemplacement 1082-1083 | Ajouté le mardi 25 juillet 2023 08:59:35
+
+Type 8: Insert Text Questions
+==========
+The Official Guide to the TOEFL iBT With CD-ROM, Third Edition (Educational Testing Service [Service etc.) (Z-Library) (Educational Testing Service)
+- Votre surlignement à lʼemplacement 1147-1147 | Ajouté le mardi 25 juillet 2023 09:07:01
+
+Type 9: Prose Summary Questions
+==========
+The Official Guide to the TOEFL iBT With CD-ROM, Third Edition (Educational Testing Service [Service etc.) (Z-Library) (Educational Testing Service)
+- Votre surlignement à lʼemplacement 1236-1237 | Ajouté le mardi 25 juillet 2023 19:54:50
+
+Type 10: Fill in a Table Questions
+==========
+The Official Guide to the TOEFL iBT With CD-ROM, Third Edition (Educational Testing Service [Service etc.) (Z-Library) (Educational Testing Service)
+- Votre surlignement à lʼemplacement 1335-1335 | Ajouté le mercredi 26 juillet 2023 08:48:36
+
+Here are some suggestions for ways to build
+==========
+Animal Farm and 1984 (George Orwell) (Z-Library) (George Orwell)
+- Votre surlignement à lʼemplacement 216-216 | Ajouté le jeudi 27 juillet 2023 09:11:55
+
+Even when you have conquered him, do not adopt his vices.
+==========
+Animal Farm and 1984 (George Orwell) (Z-Library) (George Orwell)
+- Votre surlignement à lʼemplacement 224-225 | Ajouté le jeudi 27 juillet 2023 09:14:35
+
+when I have taught you the tune, you can sing it better for yourselves. It is called 'Beasts of England.'" Old
+==========
+Animal Farm and 1984 (George Orwell) (Z-Library) (George Orwell)
+- Votre surlignement à lʼemplacement 318-318 | Ajouté le vendredi 28 juillet 2023 08:40:14
+
+for burial, and the barrel of beer in the scullery
+==========
+CH-2-Economics-NOMCMZCM0J (Unknown)
+- Votre surlignement à lʼemplacement 511-511 | Ajouté le jeudi 3 août 2023 08:37:42
+
+economic growth is computed as a yearly change in the real GDP (or per capita
+==========
+CH-2-Economics-NOMCMZCM0J (Unknown)
+- Votre surlignement à lʼemplacement 526-526 | Ajouté le jeudi 3 août 2023 08:41:19
+
+Property rights are legal structures that protect private and intellectual property.
+==========
+CH-2-Economics-NOMCMZCM0J (Unknown)
+- Votre surlignement à lʼemplacement 537-537 | Ajouté le jeudi 3 août 2023 08:43:39
+
+Since foreign investment is a source of funds, it can increase income, savings, and investments.
+==========
+CH-2-Economics-NOMCMZCM0J (Unknown)
+- Votre surlignement à lʼemplacement 545-545 | Ajouté le jeudi 3 août 2023 08:45:24
+
+Existence of restrictions on international trade and capital flows.
+==========
+CH-2-Economics-NOMCMZCM0J (Unknown)
+- Votre surlignement à lʼemplacement 553-554 | Ajouté le jeudi 3 août 2023 08:46:51
+
+since the legal system is ignored, property rights, transparency in international trade and foreign investment, and efficiency will be interfered with.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre note à lʼemplacement 106 | Ajouté le jeudi 3 août 2023 20:08:02
+
+To read
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 106-106 | Ajouté le jeudi 3 août 2023 20:08:02
+
+The GDP Deflator
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 150-150 | Ajouté le jeudi 3 août 2023 20:09:53
+
+Changes in Saving: The Effects of Fiscal Policy
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 149-149 | Ajouté le jeudi 3 août 2023 20:10:04
+
+Equilibrium in Financial Markets: The Supply and Demand for Loanable Funds
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 173-174 | Ajouté le jeudi 3 août 2023 20:11:14
+
+The Instruments of Monetary Policy
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 179-180 | Ajouté le jeudi 3 août 2023 20:12:07
+
+Chapter 5 Inflation: Its Causes, Effects, and Social Costs
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 217-218 | Ajouté le jeudi 3 août 2023 20:12:41
+
+6-1 The International Flows of Capital and Goods
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 223-223 | Ajouté le jeudi 3 août 2023 20:13:00
+
+Saving and Investment in a Small Open Economy
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre note à lʼemplacement 232 | Ajouté le jeudi 3 août 2023 20:13:59
+
+To read
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 232-232 | Ajouté le jeudi 3 août 2023 20:13:59
+
+Exchange Rates
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 288-288 | Ajouté le jeudi 3 août 2023 20:15:58
+
+Population Growth in the Solow Model
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 290-290 | Ajouté le jeudi 3 août 2023 20:16:06
+
+The Effects of Population Growth
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 294-294 | Ajouté le jeudi 3 août 2023 20:16:13
+
+Technological Progress in the Solow Model
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre note à lʼemplacement 317 | Ajouté le jeudi 3 août 2023 20:18:58
+
+To read
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 317-317 | Ajouté le jeudi 3 août 2023 20:18:58
+
+Policies to Promote Growth
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 334-334 | Ajouté le jeudi 3 août 2023 20:20:07
+
+The Facts About the Business Cycle
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 364-365 | Ajouté le jeudi 3 août 2023 20:21:29
+
+12-1 The Goods Market and the IS Curve
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 375-375 | Ajouté le jeudi 3 août 2023 20:21:36
+
+12-2 The Money Market and the LM Curve
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 386-404 | Ajouté le jeudi 3 août 2023 20:22:01
+
+13-1 Explaining Fluctuations with the IS–LM Model How Fiscal Policy Shifts the IS Curve and Changes the Short-Run Equilibrium How Monetary Policy Shifts the LM Curve and Changes the Short-Run Equilibrium The Interaction Between Monetary and Fiscal Policy Shocks in the IS–LM Model ► CASE STUDY The U.S. Recession of 2001 What Is the Fed’s Policy Instrument — The Money Supply or the Interest Rate? 13-2 IS–LM as a Theory of Aggregate Demand From the IS–LM Model to the Aggregate Demand Curve The IS–LM Model in the Short Run and Long Run 13-3 The Great Depression The Spending Hypothesis: Shocks to the IS Curve
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 413-414 | Ajouté le jeudi 3 août 2023 20:22:24
+
+Chapter 14 The Open Economy Revisited: The Mundell–Fleming Model and the Exchange-Rate Regime
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 460-460 | Ajouté le jeudi 3 août 2023 20:23:25
+
+15-2 Inflation, Unemployment, and the Phillips Curve
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 481-484 | Ajouté le jeudi 3 août 2023 20:23:53
+
+The Real Interest Rate: The Fisher Equation Inflation: The Phillips Curve Expected Inflation: Adaptive Expectations The Nominal Interest Rate: The Monetary-Policy Rule
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre note à lʼemplacement 491 | Ajouté le jeudi 3 août 2023 20:24:17
+
+To read
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 491-492 | Ajouté le jeudi 3 août 2023 20:24:17
+
+16-3 Using the Model
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 497-499 | Ajouté le jeudi 3 août 2023 20:24:29
+
+16-4 Two Applications: Lessons for Monetary Policy The Tradeoff Between Output Variability and Inflation Variability
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre note à lʼemplacement 520 | Ajouté le vendredi 4 août 2023 08:44:52
+
+To read
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 519-520 | Ajouté le vendredi 4 août 2023 08:44:53
+
+Rules for Monetary Policy
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 530-530 | Ajouté le vendredi 4 août 2023 08:45:29
+
+18-2 Measurement Problems
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 552-557 | Ajouté le vendredi 4 août 2023 08:46:14
+
+19-1 What Does the Financial System Do? Financing Investment Sharing Risk Dealing with Asymmetric Information Fostering Economic Growth FYI
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 558-558 | Ajouté le vendredi 4 août 2023 08:46:21
+
+19-2 Financial Crises
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre note à lʼemplacement 558 | Ajouté le vendredi 4 août 2023 08:46:45
+
+Only read variables
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 558-558 | Ajouté le vendredi 4 août 2023 08:46:45
+
+19-2 Financial Crises
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 593-593 | Ajouté le vendredi 4 août 2023 08:47:39
+
+Epilogue What We Know, What We Don’t
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre note à lʼemplacement 593 | Ajouté le vendredi 4 août 2023 08:48:12
+
+Maybe the report could have a short run and long run perspective
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 2522-2523 | Ajouté le vendredi 4 août 2023 08:59:35
+
+saving and investment can be interpreted in terms of supply and demand. In this case, the “good” is loanable funds, and its “price” is the interest rate.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 2533-2534 | Ajouté le vendredi 4 août 2023 09:02:02
+
+When the government changes its spending or the level of taxes, it affects the demand for the economy’s output of goods and services and alters national saving, investment, and the interest rate.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 2542-2543 | Ajouté le vendredi 4 août 2023 09:04:39
+
+Because the increase in government purchases is not accompanied by an increase in taxes, the government finances the additional spending by borrowing
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 2555-2555 | Ajouté le vendredi 4 août 2023 09:06:47
+
+A Decrease in Taxes
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre note à lʼemplacement 2555 | Ajouté le vendredi 4 août 2023 09:08:07
+
+Probably a relationship between taxes and investment and government purchases or expenses so it affects interest rates
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 2572-2573 | Ajouté le vendredi 4 août 2023 19:42:45
+
+For example, suppose that the government increases personal income taxes and uses the extra revenue to provide tax cuts for those who invest in new capital.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 3245-3246 | Ajouté le vendredi 4 août 2023 19:55:06
+
+can be classified into two broad groups: those that influence the monetary base and those that influence the reserve–deposit
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 3276-3277 | Ajouté le mardi 8 août 2023 08:48:57
+
+been the most important instrument of monetary policy in recent years.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre note à lʼemplacement 3277 | Ajouté le mardi 8 août 2023 08:49:37
+
+If there is qualitative information about reserves to control money supply
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 3542-3542 | Ajouté le mardi 8 août 2023 08:53:22
+
+and Zimbabwe again in 2020.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 3776-3777 | Ajouté le mercredi 9 août 2023 09:06:33
+
+Higher inflation leads to a higher nominal interest rate. Data from: Federal Reserve.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre note à lʼemplacement 3777 | Ajouté le mercredi 9 août 2023 09:07:20
+
+Make some relationship between local interest rate and inflation
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 4317-4318 | Ajouté le jeudi 10 août 2023 20:17:21
+
+which we’ll call net capital outflow. (It’s sometimes called net foreign investment.)
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 4388-4389 | Ajouté le jeudi 10 août 2023 20:22:06
+
+From a macroeconomic standpoint, it is a nation’s trade balance with all foreign nations collectively that matters.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 4429-4430 | Ajouté le vendredi 11 août 2023 08:31:43
+
+Yes, we can, and we will. The appendix to this chapter considers the more realistic and more complex case of a large open economy (and so does the appendix to Chapter 14).
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 4465-4466 | Ajouté le vendredi 11 août 2023 08:40:24
+
+The increase in G reduces national saving because . Investment remains the same because and the world interest rate is unchanged. Therefore, saving falls below investment, and some investment must now be financed by borrowing from abroad.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 4483-4486 | Ajouté le vendredi 11 août 2023 08:41:44
+
+The decrease in world saving causes the world interest rate to rise, just as we saw in the closed-economy model (remember, Earth is a closed economy). The increase in the world interest rate raises the cost of borrowing and, thus, reduces investment in our small open economy.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 4483-4486 | Ajouté le vendredi 11 août 2023 08:42:14
+
+The decrease in world saving causes the world interest rate to rise, just as we saw in the closed-economy model (remember, Earth is a closed economy). The increase in the world interest rate raises the cost of borrowing and, thus, reduces investment in our small open economy.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 4521-4523 | Ajouté le vendredi 11 août 2023 08:46:49
+
+A trade deficit could reflect low saving. In a closed economy, low saving leads to low investment and a smaller future capital stock. In an open economy, low saving leads to a trade deficit and a growing foreign debt, which eventually must be repaid.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre note à lʼemplacement 4523 | Ajouté le vendredi 11 août 2023 08:47:13
+
+THIS
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 4524-4525 | Ajouté le vendredi 11 août 2023 08:48:16
+
+Yet trade deficits are not always a symptom of an economic malady. When poor rural economies develop into modern industrial economies, they sometimes finance increased investment with foreign borrowing.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 4634-4635 | Ajouté le vendredi 11 août 2023 19:36:03
+
+The real exchange rate is sometimes called the terms of trade.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 4656-4657 | Ajouté le vendredi 11 août 2023 19:39:31
+
+The opposite occurs if the real exchange rate for the United States is high. In this case, American goods are expensive relative to foreign goods.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 4672-4673 | Ajouté le vendredi 11 août 2023 19:41:08
+
+The real value of a currency is inversely related to net exports. When the real exchange rate decreases, domestic goods become less expensive relative to foreign goods, and net exports increase.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 4698-4699 | Ajouté le vendredi 11 août 2023 19:45:33
+
+the supply of dollars to be invested abroad. The lower supply causes the equilibrium real exchange rate to rise from to — that is, the dollar becomes more valuable.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 4704-4705 | Ajouté le vendredi 11 août 2023 19:45:50
+
+Expansionary fiscal policy at home, such as an increase in government purchases or a cut in taxes, reduces national saving.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 4709-4709 | Ajouté le vendredi 11 août 2023 19:47:49
+
+Either change in fiscal policy reduces world saving and raises the world interest rate.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 4794-4796 | Ajouté le lundi 14 août 2023 08:52:44
+
+the real and the nominal exchange rate: We can write the nominal exchange rate as This equation shows that the nominal exchange
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre note à lʼemplacement 4796 | Ajouté le lundi 14 août 2023 08:52:53
+
+Look for it
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 4857-4859 | Ajouté le lundi 14 août 2023 09:01:42
+
+Any small movement in the real exchange rate leads to a large change in net exports. This extreme sensitivity of net exports guarantees that the equilibrium real exchange rate is always close to the level that ensures purchasing-power parity.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 4868-4869 | Ajouté le lundi 14 août 2023 09:02:51
+
+Most economists believe that, despite its appealing logic, purchasing-power parity is not a completely accurate description of the world.
+==========
+Paper Towns (Green, John)
+- Votre surlignement à lʼemplacement 1436-1437 | Ajouté le mercredi 16 août 2023 08:49:45
+
+“John Coltrane’s A Love Supreme is in the record player,”
+==========
+Paper Towns (Green, John)
+- Votre surlignement à lʼemplacement 1459-1460 | Ajouté le mercredi 16 août 2023 08:54:46
+
+“Walt Whitman’s Niece” was the first song on side two.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 11778-11780 | Ajouté le vendredi 18 août 2023 08:46:06
+
+CASE STUDY The Taylor Rule
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre signet à lʼemplacement 11897 | Ajouté le vendredi 18 août 2023 08:49:52
+
+
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 11906-11908 | Ajouté le vendredi 18 août 2023 08:52:51
+
+inflation target influences only inflation , expected inflation , and the nominal interest rate . If the central bank raises its inflation target, then inflation, expected inflation, and the nominal interest rate all increase by the same amount.
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre note à lʼemplacement 11909 | Ajouté le vendredi 18 août 2023 08:53:09
+
+Geat model
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 11909-11909 | Ajouté le vendredi 18 août 2023 08:53:09
+
+AD–AS
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 11950-11951 | Ajouté le vendredi 18 août 2023 08:58:15
+
+It says that output equals the natural level of output when inflation is on target () and there is no demand shock ().
+==========
+Macroeconomics-_N.-Gregory-Mankiw_-_Z-Library_ (Gregory N. Mankiw)
+- Votre surlignement à lʼemplacement 13196-13197 | Ajouté le mercredi 30 août 2023 08:57:30
+
+The deficit can rise or fall either because the government has changed policy or because the economy has changed direction. For some purposes, it would be good to know which is occurring.
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 55-56 | Ajouté le mercredi 30 août 2023 20:23:51
+
+Basically, it’s improvement through active practice rather than through passive learning.
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 153-154 | Ajouté le mercredi 30 août 2023 22:34:21
+
+Instead of meticulously doing each assignment and waiting weeks to learn my results, I could test myself on the material one question at a time, quickly learning from my mistakes.
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 279-280 | Ajouté le jeudi 31 août 2023 08:48:34
+
+When he encountered a difficulty in his art, he broke it down: “I asked, ‘What goal do I want to reach?’ and then ‘How might I get there?’”
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 409-410 | Ajouté le jeudi 31 août 2023 22:40:42
+
+ultralearning is self-directed. It’s about how you make decisions about what to learn and why.
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 431-432 | Ajouté le jeudi 31 août 2023 22:45:15
+
+Your deepest moments of happiness don’t come from doing easy things; they come from realizing your potential and overcoming your own limiting beliefs about yourself.
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 514-515 | Ajouté le vendredi 1 septembre 2023 08:42:49
+
+The best ultralearners are those who blend the practical reasons for learning a skill with an inspiration that comes from something that excites them.
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 566-567 | Ajouté le vendredi 1 septembre 2023 08:56:24
+
+about an intensive schedule in this book, feel free to adapt it to your own situation, taking a more leisurely pace while employing the same ruthlessly efficient tactics.
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 683-684 | Ajouté le mardi 5 septembre 2023 20:38:12
+
+I describe how ultralearners maximize the effectiveness of the principle through the choices they make in their projects. They are:
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 777-778 | Ajouté le mercredi 6 septembre 2023 08:26:53
+
+French vocabulary won’t help you much with learning Chinese vocabulary, but understanding how vocabulary acquisition works in French will likely also help with learning Chinese.
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 787-788 | Ajouté le mercredi 6 septembre 2023 08:29:58
+
+Aggressively paced coding bootcamps can get participants up to a level where they can compete for jobs much faster than those with a normal undergraduate degree.
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 820-821 | Ajouté le mercredi 6 septembre 2023 08:37:45
+
+The fix here is to do your research first. Determine if learning a topic is likely to have the effect you want it
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 831-833 | Ajouté le mercredi 6 septembre 2023 08:40:13
+
+with the goal of building your own apps, for example, you can find online forums dedicated to programming or app development. Then you just need to look for frequent posters who seem to have the knowledge you’re looking for and email them.
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 837-838 | Ajouté le mercredi 6 septembre 2023 08:40:43
+
+The key is to write a simple, to-the-point email, explaining why you’re reaching out to them and asking if they could spare fifteen minutes to answer some simple questions. Make
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 855-856 | Ajouté le mercredi 6 septembre 2023 20:18:05
+
+In general, if something needs to be understood, not just memorized, I put it into this column instead of the second column for facts.
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre note à lʼemplacement 856 | Ajouté le mercredi 6 septembre 2023 20:18:27
+
+Dax measures need to be ujnderstood
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 860-860 | Ajouté le mercredi 6 septembre 2023 20:19:50
+
+but it may be sufficient to memorize some trigonometric identities.
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre note à lʼemplacement 860 | Ajouté le mercredi 6 septembre 2023 20:20:08
+
+Memorize dax formulas
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 1097-1097 | Ajouté le lundi 11 septembre 2023 20:44:10
+
+yourself to avoid multitasking and enjoy greater productivity. Multitasking may feel like fun, but
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 1096-1098 | Ajouté le lundi 11 septembre 2023 20:44:28
+
+you can probably train yourself to avoid multitasking and enjoy greater productivity. Multitasking may feel like fun, but it’s unsuitable for ultralearning, which requires concentrating your full mind on the task at hand.
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 1114-1115 | Ajouté le mardi 12 septembre 2023 08:33:21
+
+However, sometimes there’s nothing you can do about your emotions, and feelings arise spontaneously without requiring you to do something about them.
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 1223-1224 | Ajouté le mardi 12 septembre 2023 19:22:22
+
+What these approaches share is that the learning activities are always done with a connection to the context in which the skills learned will eventually be used.
+==========
+Ultralearning Master Hard Skills, Outsmart the Competition, and Accelerate Your Career (Scott H Young) (Z-Library) (Scott Young)
+- Votre surlignement à lʼemplacement 1246-1247 | Ajouté le mardi 12 septembre 2023 19:27:27
+
+If you want to pass a test, practice solving the kinds of problems that are likely to appear on it, as I did in my own MIT Challenge.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 387-388 | Ajouté le mardi 26 septembre 2023 20:50:31
+
+Being open with your insecurities paradoxically makes you more confident and charismatic around others.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 477-477 | Ajouté le mercredi 27 septembre 2023 08:50:49
+
+about trivial shit that bothers you—your ex-boyfriend’s new Facebook picture,
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 509-511 | Ajouté le mercredi 27 septembre 2023 21:10:29
+
+Because when we believe that it’s not okay for things to suck sometimes, then we unconsciously start blaming ourselves. We start to feel as though something is inherently wrong with us, which drives us to all sorts of overcompensation,
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 517-518 | Ajouté le jeudi 28 septembre 2023 08:22:20
+
+life is comprised of failures, loss, regrets, and even death.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 519-519 | Ajouté le jeudi 28 septembre 2023 08:22:38
+
+the only way to overcome pain is to first learn how to bear it.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 564-564 | Ajouté le jeudi 28 septembre 2023 08:30:03
+
+People who pursue worldly pleasures suffer because of their worldly pleasures.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 571-573 | Ajouté le jeudi 28 septembre 2023 08:32:26
+
+If I achieve X, then I can be happy. If I look like Y, then I can be happy. If I can be with a person like Z, then I can be happy. This premise, though, is the problem. Happiness is not a solvable equation.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 589-589 | Ajouté le jeudi 28 septembre 2023 08:34:55
+
+We suffer for the simple reason that suffering is biologically useful. It is nature’s preferred agent for inspiring change.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 601-601 | Ajouté le jeudi 28 septembre 2023 08:36:44
+
+And this pain, as much as we hate it, is useful.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 603-604 | Ajouté le jeudi 28 septembre 2023 08:37:17
+
+Therefore, it’s not always beneficial to avoid pain and seek pleasure, since pain can, at times, be life-or-death important to our well-being.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 603-604 | Ajouté le jeudi 28 septembre 2023 08:37:25
+
+Therefore, it’s not always beneficial to avoid pain and seek pleasure, since pain can, at times, be life-or-death important to our well-being.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre note à lʼemplacement 604 | Ajouté le jeudi 28 septembre 2023 08:37:35
+
+I know how
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 610-611 | Ajouté le jeudi 28 septembre 2023 08:38:30
+
+And like our physical pain, our psychological pain is not necessarily always bad or even undesirable. In some cases, experiencing emotional or psychological
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 610-611 | Ajouté le jeudi 28 septembre 2023 08:38:35
+
+And like our physical pain, our psychological pain is not necessarily always bad or even undesirable. In some cases, experiencing emotional or psychological pain can be healthy or necessary.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 620-621 | Ajouté le jeudi 28 septembre 2023 08:40:06
+
+“The solution to one problem is merely the creation of the next one.”
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 682-683 | Ajouté le jeudi 28 septembre 2023 20:15:11
+
+Decision-making based on emotional intuition, without the aid of reason to keep it in line, pretty much always sucks.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 691-692 | Ajouté le jeudi 28 septembre 2023 20:16:36
+
+sacrifice—whatever makes us feel good will also inevitably make us feel bad. What we gain is also what we lose.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 706-707 | Ajouté le jeudi 28 septembre 2023 20:19:15
+
+Most people want to have great sex and an awesome relationship,
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 706-708 | Ajouté le jeudi 28 septembre 2023 20:19:27
+
+awesome relationship, but not everyone is willing to go through the tough conversations, the awkward silences, the hurt feelings, and the emotional psychodrama to get there.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 737-737 | Ajouté le jeudi 28 septembre 2023 20:26:28
+
+I wasn’t in love with the process.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 746-747 | Ajouté le jeudi 28 septembre 2023 20:28:39
+
+I wanted the result and not the process. I was in love with not the fight but only the victory. And life doesn’t work that way.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 779-780 | Ajouté le vendredi 29 septembre 2023 09:01:14
+
+Research found that people who thought highly about themselves generally performed better and caused fewer problems.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 796-797 | Ajouté le vendredi 29 septembre 2023 09:05:38
+
+Yes, that confident, high-self-esteem Jimmy. The Jimmy who spent so much time talking about how good he was that he forgot to, you know, actually do something.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 790-791 | Ajouté le vendredi 29 septembre 2023 09:06:05
+
+It turns out that adversity and failure are actually useful and even necessary for developing strong-minded and successful adults.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 801-802 | Ajouté le vendredi 29 septembre 2023 09:07:31
+
+He believes he should be able to be rich without actually working for it. He
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 830-831 | Ajouté le vendredi 29 septembre 2023 09:13:25
+
+But entitled people, because they are incapable of acknowledging their own problems openly and honestly, are incapable of improving their lives in any lasting or meaningful way.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 935-936 | Ajouté le lundi 2 octobre 2023 09:04:18
+
+I’m awesome and the rest of you all suck, so I deserve special treatment. 2.   I suck and the rest of you are all awesome, so I deserve special treatment.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1012-1014 | Ajouté le lundi 2 octobre 2023 20:31:11
+
+Once you accept the premise that a life is worthwhile only if it is truly notable and great, then you basically accept the fact that most of the human population (including yourself) sucks and is worthless
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1028-1030 | Ajouté le lundi 2 octobre 2023 20:35:31
+
+You will have a growing appreciation for life’s basic experiences: the pleasures of simple friendship, creating something, helping a person in need, reading a good book, laughing with someone you care about.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1150-1151 | Ajouté le mardi 3 octobre 2023 09:04:00
+
+Everything we think and feel about a situation ultimately comes back to how valuable we perceive it to be.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1158-1158 | Ajouté le mardi 3 octobre 2023 09:05:37
+
+their decisions were based on chasing highs, not generating true happiness.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1167-1169 | Ajouté le mardi 3 octobre 2023 09:07:22
+
+Take a moment and think of something that’s really bugging you. Now ask yourself why it bugs you. Chances are the answer will involve a failure of some sort.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1178-1180 | Ajouté le mardi 3 octobre 2023 19:50:47
+
+Two things are operating here: a value that I hold dear, and a metric that I use to assess progress toward that value. My value: brothers are supposed to have a good relationship with one another. My metric: being in contact by phone or email—this is how I measure my success as a brother.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre note à lʼemplacement 1180 | Ajouté le mardi 3 octobre 2023 19:51:04
+
+If she doesnt answer
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1241-1242 | Ajouté le mardi 3 octobre 2023 20:03:04
+
+If you want to change how you see your problems, you have to change what you value and/
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1241-1242 | Ajouté le mardi 3 octobre 2023 20:03:09
+
+If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1275-1276 | Ajouté le mardi 3 octobre 2023 20:07:26
+
+Pleasure. Pleasure is great, but it’s a horrible value to prioritize your life around.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1293-1294 | Ajouté le mercredi 4 octobre 2023 08:53:03
+
+The other issue with overvaluing material success is the danger of prioritizing it over other values, such as honesty, nonviolence, and compassion.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1308-1309 | Ajouté le mercredi 4 octobre 2023 08:56:32
+
+the truth is, sometimes life sucks, and the healthiest thing you can do is admit it.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1309-1310 | Ajouté le mercredi 4 octobre 2023 08:56:53
+
+Denying negative emotions leads to experiencing deeper and more prolonged negative emotions and to emotional dysfunction.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1335-1335 | Ajouté le mercredi 4 octobre 2023 09:00:45
+
+Good values are 1) reality-based, 2) socially constructive, and 3) immediate and controllable.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1370-1371 | Ajouté le mercredi 4 octobre 2023 09:07:07
+
+prioritizing better values, choosing better things to give a fuck about. Because when you give better fucks, you get better problems
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1370-1372 | Ajouté le mercredi 4 octobre 2023 09:07:23
+
+prioritizing better values, choosing better things to give a fuck about. Because when you give better fucks, you get better problems. And when you get better problems, you get a better life.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1389-1390 | Ajouté le mercredi 4 octobre 2023 20:18:54
+
+But when you chose it freely and prepared for it, it was a glorious and important milestone in your life.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1395-1396 | Ajouté le mercredi 4 octobre 2023 20:19:50
+
+When we feel that we’re choosing our problems, we feel empowered. When we feel that our problems are being forced upon us against our will, we feel victimized and miserable.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1437-1438 | Ajouté le mercredi 4 octobre 2023 20:26:09
+
+We don’t always control what happens to us. But we always control how we interpret what happens to us, as well as how we respond.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1463-1464 | Ajouté le mercredi 4 octobre 2023 20:29:43
+
+The more we choose to accept responsibility in our lives, the more power we will exercise over our lives.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1493-1494 | Ajouté le mercredi 4 octobre 2023 20:34:50
+
+Here’s one way to think about the distinction between the two concepts. Fault is past tense. Responsibility is present tense.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1506-1508 | Ajouté le mercredi 4 octobre 2023 20:36:51
+
+See, I couldn’t control her. No matter how many times I called her, or screamed at her, or begged her to take me back, or made surprise visits to her place, or did other creepy and irrational ex-boyfriend things, I could never control her emotions or her actions.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1515-1516 | Ajouté le mercredi 4 octobre 2023 20:38:09
+
+I was taking responsibility for my own emotions. And by doing so, I was choosing better values—values aimed at taking care of myself, learning to feel better about myself, rather than aimed at getting her to fix what she’d broken.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1522-1523 | Ajouté le mercredi 4 octobre 2023 20:39:19
+
+But recognizing my mistakes helped me to realize that I perhaps hadn’t been the innocent victim I’d believed myself to be. That
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1628-1630 | Ajouté le jeudi 5 octobre 2023 08:49:29
+
+are those who are abused and violated and screwed over, physically, emotionally, financially. They are not to blame for their problems and their hindrances, but they are still responsible—always responsible—to move on despite their problems and to make the best choices they can, given their circumstances.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1679-1681 | Ajouté le jeudi 5 octobre 2023 19:55:21
+
+You’re going to feel uncertain; I guarantee it. “Should I really give this up? Is this the right thing to do?” Giving up a value you’ve depended on for years is going to feel disorienting, as if you don’t really know right from wrong anymore.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1685-1687 | Ajouté le jeudi 5 octobre 2023 19:56:19
+
+values—the moment you decide that studying is more important than partying, that getting married and having a family is more important than rampant sex, that working a job you believe in is more important than money—
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1685-1687 | Ajouté le jeudi 5 octobre 2023 19:56:37
+
+values—the moment you decide that studying is more important than partying, that getting married and having a family is more important than rampant sex, that working a job you believe in is more important than money—your turnaround will reverberate out through your relationships,
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1706-1706 | Ajouté le jeudi 5 octobre 2023 19:59:26
+
+when that relationship ended, I thought I’d never feel the same way about a woman again.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1715-1716 | Ajouté le jeudi 5 octobre 2023 20:00:46
+
+Growth is an endlessly iterative process. When we learn something new, we don’t go from “wrong” to “right.” Rather, we go from wrong to slightly less wrong.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1730-1731 | Ajouté le jeudi 5 octobre 2023 20:03:06
+
+A certain woman is single and lonely and wants a partner, but she never gets out of the house and does anything about it. A certain man works his ass off and believes he deserves a promotion, but he never explicitly says that to his boss.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1736-1739 | Ajouté le jeudi 5 octobre 2023 20:04:34
+
+It’s easier to sit in a painful certainty that nobody would find you attractive, that nobody appreciates your talents, than to actually test those beliefs and find out for sure. Beliefs of this sort—that I’m not attractive enough, so why bother; or that my boss is an asshole, so why bother—are designed to give us moderate comfort now by mortgaging greater happiness and success later on.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1743-1745 | Ajouté le jeudi 5 octobre 2023 20:05:22
+
+Instead of striving for certainty, we should be in constant search of doubt: doubt about our own beliefs, doubt about our own feelings, doubt about what the future may hold for us unless we get out there and create it for ourselves.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1748-1750 | Ajouté le jeudi 5 octobre 2023 20:07:00
+
+Because here’s something that’s weird but true: we don’t actually know what a positive or negative experience is. Some of the most difficult and stressful moments of our lives also end up being the most formative and motivating.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1751-1752 | Ajouté le jeudi 5 octobre 2023 20:07:15
+
+Don’t trust your conception of positive/negative experiences. All that we know for certain is what hurts in the moment and what doesn’t. And that’s not worth much.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1852-1854 | Ajouté le vendredi 6 octobre 2023 08:52:36
+
+Our mind’s biggest priority when processing experiences is to interpret them in such a way that they will cohere with all of our previous experiences, feelings, and beliefs. But often we run into life situations where past and present don’t cohere:
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1938-1940 | Ajouté le vendredi 6 octobre 2023 20:43:17
+
+And it’s in these moments of insecurity, of deep despair, that we become susceptible to an insidious entitlement: believing that we deserve to cheat a little to get our way, that other people deserve to be punished, that we deserve to take what we want, and sometimes violently.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 1962-1964 | Ajouté le vendredi 6 octobre 2023 20:47:21
+
+That means the more something threatens to change how you view yourself, how successful/unsuccessful you believe yourself to be, how well you see yourself living up to your values, the more you will avoid ever getting around to doing it.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 2038-2040 | Ajouté le lundi 9 octobre 2023 09:08:22
+
+“Am I jealous—and if I am, then why?” “Am I angry?” “Is she right, and I’m just protecting my ego?” Questions like these need to become a mental habit.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 2136-2137 | Ajouté le lundi 9 octobre 2023 20:53:41
+
+while not showing us the thousands of hours of dull practice and tedium that were required to achieve that success.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 2140-2141 | Ajouté le lundi 9 octobre 2023 20:54:26
+
+This confines us and stifles us. We can be truly successful only at something we’re willing to fail at. If we’re unwilling to fail, then we’re unwilling to succeed.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 2226-2227 | Ajouté le mardi 10 octobre 2023 08:43:40
+
+Because I failed to separate what I felt from what was, I was incapable of stepping outside myself and seeing the world for what it was: a simple place where two people can walk up to each other at any time and speak.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 2230-2233 | Ajouté le mardi 10 octobre 2023 08:44:57
+
+Learn to sustain the pain you’ve chosen. When you choose a new value, you are choosing to introduce a new form of pain into your life. Relish it. Savor it. Welcome it with open arms. Then act despite it. I won’t lie: this is going to feel impossibly hard at first. But you can start simple.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 2249-2251 | Ajouté le mardi 10 octobre 2023 08:49:01
+
+“If you’re stuck on a problem, don’t sit there and think about it; just start working on it. Even if you don’t know what you’re doing, the simple act of working on it will eventually cause the right ideas to show up in your head.”
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 2271-2272 | Ajouté le mardi 10 octobre 2023 08:51:44
+
+If you lack the motivation to make an important change in your life, do something—anything, really—and then harness the reaction to that action as a way to begin motivating yourself.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 2284-2286 | Ajouté le mardi 10 octobre 2023 08:54:29
+
+If we follow the “do something” principle, failure feels unimportant. When the standard of success becomes merely acting—when any result is regarded as progress and important, when inspiration is seen as a reward rather than a prerequisite—we propel ourselves ahead. We feel free to fail, and that failure moves us forward.
+==========
+Making Microfinance Work_ Managing for I - Craig Churchill (Unknown)
+- Votre surlignement à lʼemplacement 179-180 | Ajouté le mardi 10 octobre 2023 19:58:16
+
+managers must interact, communicate and collaborate with a host of different parties, including customers, peers, subordinates, supervisors, partners and suppliers.
+==========
+Making Microfinance Work_ Managing for I - Craig Churchill (Unknown)
+- Votre surlignement à lʼemplacement 187-187 | Ajouté le mardi 10 octobre 2023 20:00:25
+
+Assessing the current situation and determining what the future situation should be
+==========
+Making Microfinance Work_ Managing for I - Craig Churchill (Unknown)
+- Votre note à lʼemplacement 187 | Ajouté le mardi 10 octobre 2023 20:00:50
+
+How do you see the IMF or future situation
+==========
+Making Microfinance Work_ Managing for I - Craig Churchill (Unknown)
+- Votre surlignement à lʼemplacement 187-188 | Ajouté le mardi 10 octobre 2023 20:02:01
+
+Identifying what must happen to create the desired future scenario
+==========
+Making Microfinance Work_ Managing for I - Craig Churchill (Unknown)
+- Votre note à lʼemplacement 188 | Ajouté le mardi 10 octobre 2023 20:02:31
+
+Wht qre you expecting and how that will impact
+==========
+Making Microfinance Work_ Managing for I - Craig Churchill (Unknown)
+- Votre surlignement à lʼemplacement 732-733 | Ajouté le mercredi 11 octobre 2023 08:59:20
+
+As long as members maintain confidence in their institution, the financial base is reasonably stable. Access to external sources of capital varies, but where it exists it is sometimes destabilizing.
+==========
+Making Microfinance Work_ Managing for I - Craig Churchill (Unknown)
+- Votre surlignement à lʼemplacement 744-746 | Ajouté le mercredi 11 octobre 2023 09:01:27
+
+Difficulties also 32 Introduction to Microfînance Manage arise if credit union members do not adequately understand their governance responsibilities or do not have adequate systems to facilitate accountability. Mictofinance
+==========
+Making Microfinance Work_ Managing for I - Craig Churchill (Unknown)
+- Votre surlignement à lʼemplacement 949-951 | Ajouté le jeudi 12 octobre 2023 08:58:20
+
+Many MFIs have relationships with Western Union, MoneyGram and other wire transfer agencies to enable their clients to accept and send remittances. This service is particularly interesting when it is linked with a savings or credit product offered by the MFI, such as relying on a regular remittance stream to repay a housing loan.
+==========
+Making Microfinance Work_ Managing for I - Craig Churchill (Unknown)
+- Votre surlignement à lʼemplacement 1051-1053 | Ajouté le jeudi 12 octobre 2023 09:05:27
+
+and the proportion of women has decreased slightly to 57 per cent, at the end of July 2001 about 21 per cent of its loan portfolio came from loans that were less than US$250, while 30 per cent of the portfolio was in the US$250-500 category. Using loan size as a proxy for depth of outreach, Mibanco was serving more poor people after transformation than before. The
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 2292-2294 | Ajouté le samedi 14 octobre 2023 21:17:11
+
+Recognize that you’ve been an entitled prick in all of your relationships and want to start developing more compassion for others? Do something. Start simple. Make it a goal to listen to someone’s problem and give some of your time to helping that person.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 2471-2472 | Ajouté le lundi 16 octobre 2023 19:52:21
+
+Rather, a healthy relationship is when two people solve their own problems in order to feel good about each other.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 2477-2478 | Ajouté le mardi 17 octobre 2023 08:18:20
+
+Entitled people who take the blame for other people’s emotions and actions do so because they believe that if they “fix” their partner and save him or her, they will receive the love and appreciation they’ve always wanted.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 2534-2534 | Ajouté le mardi 17 octobre 2023 08:30:27
+
+Without conflict, there can be no trust.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 2544-2546 | Ajouté le mardi 17 octobre 2023 08:32:50
+
+This is what’s so destructive about cheating. It’s not about the sex. It’s about the trust that has been destroyed as a result of the sex. Without trust, the relationship can no longer function. So it’s either rebuild the trust or say your goodbyes.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 2569-2569 | Ajouté le mardi 17 octobre 2023 08:36:18
+
+process applies to a breach in any relationship. When
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 2569-2571 | Ajouté le mardi 17 octobre 2023 08:36:28
+
+When trust is destroyed, it can be rebuilt only if the following two steps happen: 1) the trust-breaker admits the true values that caused the breach and owns up to them, and 2) the trust-breaker builds a solid track record of improved behavior over time.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 2586-2587 | Ajouté le mardi 17 octobre 2023 08:39:28
+
+So what do we do? Well, if you’re like I used to be, you avoid choosing anything at all. You aim to keep your options open as long as possible. You avoid commitment.
+==========
+The Subtle Art of Not Giving a Fck (Mark Manson) (Z-Library) (Mark Manson)
+- Votre surlignement à lʼemplacement 2785-2785 | Ajouté le mercredi 18 octobre 2023 09:09:56
+
+Anything but looking straight down feels as though
+==========
+Introduction to Data Visualization  Storytelling A Guide For The Data Scientist (Jose Berengueres Ali Fenwick Marybeth Sandell) (Z-Library) (Jose Berengueres)
+- Votre surlignement sur la page 8 | emplacement 107-108 | Ajouté le jeudi 19 octobre 2023 08:32:29
+
+we need to know why we are visualizing. To get to the why, it’s important to explore the story that needs to be told and be able to make it relevant.
+==========
+Introduction to Data Visualization  Storytelling A Guide For The Data Scientist (Jose Berengueres Ali Fenwick Marybeth Sandell) (Z-Library) (Jose Berengueres)
+- Votre surlignement sur la page 17 | emplacement 183-185 | Ajouté le jeudi 19 octobre 2023 08:43:11
+
+One way to arrive at wisdom is the Synthesis process — the dialectic combination of thesis and antithesis into a higher truth.
+==========
+Introduction to Data Visualization  Storytelling A Guide For The Data Scientist (Jose Berengueres Ali Fenwick Marybeth Sandell) (Z-Library) (Jose Berengueres)
+- Votre surlignement sur la page 43 | emplacement 388-389 | Ajouté le jeudi 19 octobre 2023 19:22:07
+
+the typical root cause of a poor chart is failing to transform data into (meaningful) knowledge, not using the wrong aesthetics.
+==========
+Introduction to Data Visualization  Storytelling A Guide For The Data Scientist (Jose Berengueres Ali Fenwick Marybeth Sandell) (Z-Library) (Jose Berengueres)
+- Votre surlignement sur la page 47 | emplacement 418-419 | Ajouté le jeudi 19 octobre 2023 19:25:18
+
+One reason is that it is not connected to any narrative. Another reason is that it does not increase our knowledge.
+==========
+Introduction to Data Visualization  Storytelling A Guide For The Data Scientist (Jose Berengueres Ali Fenwick Marybeth Sandell) (Z-Library) (Jose Berengueres)
+- Votre surlignement sur la page 49 | emplacement 430-432 | Ajouté le vendredi 20 octobre 2023 19:05:34
+
+Simplify We consider men and women only and ignore the other two outlier groups.
+==========
+Introduction to Data Visualization  Storytelling A Guide For The Data Scientist (Jose Berengueres Ali Fenwick Marybeth Sandell) (Z-Library) (Jose Berengueres)
+- Votre surlignement sur la page 54 | emplacement 479-487 | Ajouté le vendredi 20 octobre 2023 19:12:33
+
+Chart check list ☑　Type of chart compatible with the narrative (message) ☑　No　color overload (3 colors max) ☑　One chart, one message ☑　Metaphors aligned with the narrative ☑　I don’t need to read the caption to understand the chart ☑　The caption is used as a synthesis opportunity ☑　The caption does not explain the chart again ☑　Bias checked by third party
+==========
+Plato Complete Works (Plato, John M. Cooper, D. S. Hutchinson) (Z-Library) (Plato, Cooper, John M., Hutchinson, D. S.)
+- Votre surlignement à lʼemplacement 701-703 | Ajouté le mardi 24 octobre 2023 08:36:19
+
+obvious, for you would not prosecute your father for the murder of a stranger. EUTHYPHRO: It is ridiculous, Socrates, for you to think that it makes any difference whether the victim is a stranger or a relative. One
+==========
+Plato Complete Works (Plato, John M. Cooper, D. S. Hutchinson) (Z-Library) (Plato, Cooper, John M., Hutchinson, D. S.)
+- Votre surlignement à lʼemplacement 702-703 | Ajouté le mardi 24 octobre 2023 08:36:36
+
+It is ridiculous, Socrates, for you to think that it makes any difference whether the victim is a stranger or a relative. One should only watch whether the killer acted justly or not; if he acted justly, let him go,
+==========
+Plato Complete Works (Plato, John M. Cooper, D. S. Hutchinson) (Z-Library) (Plato, Cooper, John M., Hutchinson, D. S.)
+- Votre surlignement à lʼemplacement 1101-1101 | Ajouté le mercredi 1 novembre 2023 08:55:19
+
+I am likely to be wiser than he to this small extent, that I do not think I know what I do not know.”
+==========
+Plato Complete Works (Plato, John M. Cooper, D. S. Hutchinson) (Z-Library) (Plato, Cooper, John M., Hutchinson, D. S.)
+- Votre note à lʼemplacement 1101 | Ajouté le mercredi 1 novembre 2023 08:55:58
+
+Accepting that you may not know sth is also wise
+==========
+Plato Complete Works (Plato, John M. Cooper, D. S. Hutchinson) (Z-Library) (Plato, Cooper, John M., Hutchinson, D. S.)
+- Votre surlignement à lʼemplacement 1172-1173 | Ajouté le vendredi 3 novembre 2023 08:33:38
+
+Meletus, [26] and I do not think anyone else will. Either I do not corrupt the young or, if I do, it is unwillingly, and you are lying in either case.
+==========
+Plato Complete Works (Plato, John M. Cooper, D. S. Hutchinson) (Z-Library) (Plato, Cooper, John M., Hutchinson, D. S.)
+- Votre note à lʼemplacement 1173 | Ajouté le vendredi 3 novembre 2023 08:33:48
+
+How?
+==========
+Plato Complete Works (Plato, John M. Cooper, D. S. Hutchinson) (Z-Library) (Plato, Cooper, John M., Hutchinson, D. S.)
+- Votre surlignement à lʼemplacement 1198-1200 | Ajouté le vendredi 3 novembre 2023 08:43:17
+
+Does any man believe in spiritual activities who does not believe in spirits?—No one. Thank you for answering, if reluctantly, when these gentlemen made you. Now you say that I believe in spiritual things and teach about them, whether
+==========
+Plato Complete Works (Plato, John M. Cooper, D. S. Hutchinson) (Z-Library) (Plato, Cooper, John M., Hutchinson, D. S.)
+- Votre note à lʼemplacement 1200 | Ajouté le vendredi 3 novembre 2023 08:43:52
+
+You teach what you belive in
+==========
+Plato Complete Works (Plato, John M. Cooper, D. S. Hutchinson) (Z-Library) (Plato, Cooper, John M., Hutchinson, D. S.)
+- Votre note à lʼemplacement 1200 | Ajouté le vendredi 3 novembre 2023 08:44:13
+
+You teach what you believe in
+==========
